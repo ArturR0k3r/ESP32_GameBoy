@@ -1,4 +1,5 @@
-# ESP32_GameBoy
+# Pen_GameConsole
+
 NintendoEntertainmentSystem Emulation on ESP32 and ILI9341 
 #HW and Housing assembly
 ![image](https://github.com/ArturR0k3r/ESP32_GameBoy/assets/117598386/de34f7dd-283c-4dcc-a469-045ec0eb98d0)
